@@ -1,37 +1,53 @@
-# Hi, I’m Rowan Mokhtar 👋
+# Hi there 👋, I'm Rowan Mokhtar  
 
-I am an Electrical Power & Machines Engineering student at Alexandria University with a strong passion for robotics, artificial intelligence, control systems, and automotive technologies.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=600&lines=Electrical+Power+and+Machines+Student;Passionate+about+robotics+%26+AI)](https://git.io/typing-svg)
 
-## Technical Skills
-
-- Programming Languages: C++, Python, MATLAB  
-
-- Embedded Systems: PCB design, sensor integration, PID controller implementation  
-
-- Advanced Technologies: ROS, LiDAR, IMUs, Kalman filters for sensor fusion  
-
-## Interests
-
-- Building practical systems that combine hardware and software  
-
-- Exploring new technologies in robotics and AI  
-
-- Developing intelligent control systems, especially for robotics and automotive applications  
-
-## Goals
-
-- To discover my true passion through continuous learning and real-world projects  
-
-- To contribute to impactful innovations in robotics and intelligent systems  
-
-- Seeking internship opportunities to grow my skills and gain practical experience  
-
-## Contact Me
-
-- [LinkedIn](https://www.linkedin.com/in/rowan-mokhtar-444460257)  
-
-- [Email](mailto:rowanmoktar6@gmail.com)  
+🎓 Student at **Alexandria University** – Electrical Power and Machines Department  
+🤖 Passionate about **Robotics, AI **  
+⚡ Interested in **Embedded Systems, ROS, Machine Learning,and Computer Vision**  
+💡 Always exploring new fields to find my passion and improve my skills  
 
 ---
 
-I’m always eager to learn, collaborate, and innovate. Feel free to reach out if you want to connect or discuss anything technology-related! 😊
+## 🔧 Skills & Tools  
+
+### 🖥️ Programming  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/MATLAB-FF7F0E?style=for-the-badge&logo=mathworks&logoColor=white)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+
+### 🤖 Robotics & AI  
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0088CC?style=for-the-badge&logo=opencv&logoColor=white)  
+
+### ⚡ Other Tools  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Altium Designer](https://img.shields.io/badge/Altium-999999?style=for-the-badge&logo=altiumdesigner&logoColor=white)  
+
+---
+
+## 📌 Current Activities
+- Participating in **ECPC training** & Robotics technical team  
+- Exploring **Machine Learning & AI** for robotics applications  
+- Working on projects involving **autonomous robots, computer vision, and control systems**  
+
+---
+
+## 🚀 Featured Projects
+- 🐢 **Turtle Battle Game with ROS** – Multiplayer game using `turtlesim`  
+- 🤖 **TurtleBot Navigation & Control** – PID-based control in Gazebo  
+- 🔊 **Voice Signal Processing with MATLAB** – AM, FM, DSB-SC, and filtering analysis  
+- 🧠 **Neural Networks from Scratch** – Implementing & training models on MNIST dataset  
+
+---
+
+## 📫 How to reach me
+- LinkedIn: [rowan mokhtar](www.linkedin.com/in/rowan-mokhtar-444460257)  
+📧 **rowanmokhtar6@gmail.com**  
+
