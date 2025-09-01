@@ -32,20 +32,6 @@
 
 ---
 
-## 📌 Current Activities
-- Participating in **ECPC training** & Robotics technical team  
-- Exploring **Machine Learning & AI** for robotics applications  
-- Working on projects involving **autonomous robots, computer vision, and control systems**  
-
----
-
-## 🚀 Featured Projects
-- 🐢 **Turtle Battle Game with ROS** – Multiplayer game using `turtlesim`  
-- 🤖 **TurtleBot Navigation & Control** – PID-based control in Gazebo  
-- 🔊 **Voice Signal Processing with MATLAB** – AM, FM, DSB-SC, and filtering analysis  
-- 🧠 **Neural Networks from Scratch** – Implementing & training models on MNIST dataset  
-
----
 
 ## 📫 How to reach me
 - LinkedIn: [rowan mokhtar](www.linkedin.com/in/rowan-mokhtar-444460257)  
