@@ -42,8 +42,8 @@ I believe in learning by practice, improving step by step, and building a strong
 
 ## 📫 Contact
 
-- 📧 Email: [rowanmokhtar6@gmail.com](mailto:rowanmokhtar6@gmail.com)
-- 💼 LinkedIn: [Rowan Mokhtar](https://www.linkedin.com/in/rowan-mokhtar-444460257)
+-  Email: rowanmokhtar6@gmail.com
+-  LinkedIn: [Rowan Mokhtar](https://www.linkedin.com/in/rowan-mokhtar-444460257)
 
 
 
