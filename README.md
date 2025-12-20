@@ -48,7 +48,5 @@ I believe in learning by practice, improving step by step, and building a strong
 
 ---
 
-© 2025 Rowan Mokhtar
-![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 
 
