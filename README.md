@@ -38,6 +38,7 @@ I believe in learning by practice, improving step by step, and building a strong
 * Gain hands-on experience through projects and internships
 * Continuously improve my problem-solving and communication skills
 
+
 ---
 
 ## 📫 Contact
@@ -45,5 +46,14 @@ I believe in learning by practice, improving step by step, and building a strong
 -  Email: rowanmokhtar6@gmail.com
 -  LinkedIn: [Rowan Mokhtar](https://www.linkedin.com/in/rowan-mokhtar-444460257)
 
+---
+
+## 📄 License
+
+This profile content is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
+You are free to share and adapt the content with proper attribution.
+
+© 2025 Rowan Mokhtar
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 
 
